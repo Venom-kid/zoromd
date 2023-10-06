@@ -2,9 +2,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile, readFileSync } from 'fs'
 
-global.owner = 
+global.owner = '2349151610726'
  [
-  ['+91 6235 050 956', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
+  ['2349151610726', 'lucifer', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -43,8 +43,8 @@ global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
 global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 - 2023'
-global.bott = 'zoro md'
-global.nomorown = '916235050956'
+global.bott = 'Dark-side'
+global.nomorown = '2349151610726'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
